@@ -1,0 +1,25 @@
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     4201 MB
+    Driver:   22.20.16.4771
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\midterm\New Unity Project\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\midterm\New Unity Project\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\midterm\New Unity Project\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\midterm\New Unity Project\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\midterm\New Unity Project\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\midterm\New Unity Project\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\midterm\New Unity Project\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\midterm\New Unity Project\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\midterm\New Unity Project\Build_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading G:\midterm\New Unity Project\Build_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: G:\midterm\New Unity Project\Build_Data\Managed\System.dll (this message is harmless)
+Platform assembly: G:\midterm\New Unity Project\Build_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.017 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
